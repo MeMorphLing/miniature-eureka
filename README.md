@@ -1,2 +1,2 @@
-# miniature-eureka
-End-to-end road lane segmentation project using PyTorch and U-Net with a ResNet34 encoder. Covers dataset preparation, preprocessing, augmentation, model training, evaluation, and visualization using the Kaggle Road Lane Segmentation dataset for semantic segmentation tasks.
+# RoadLane-Segmentation
+This project is a deep learning-based system designed to enable autonomous vehicles to detect and segment road lanes accurately. It utilizes a U-Net architecture with a ResNet34 encoder to analyze road images, achieving high performance with an IoU of 0.84 and a Dice score of 0.87

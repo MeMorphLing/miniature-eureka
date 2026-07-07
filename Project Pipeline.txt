@@ -1,0 +1,11 @@
+Image Segmentation Pipeline
+1. Data Preprocessing & Augmentation
+2. Train/Validation/Test Split
+3. Create DataLoaders
+4. Model Selection & Architecture
+5. Loss Function Selection
+6. Training Configuration
+7. Evaluation Metrics
+8. Model Training Loop
+9. Post-Processing
+10. Model Evaluation & Testing
